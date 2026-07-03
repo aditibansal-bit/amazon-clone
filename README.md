@@ -8,7 +8,13 @@ A responsive Amazon homepage clone built using HTML, CSS, and JavaScript.
 
 ## 📸 Preview
 
-(Add your screenshot here later)
+### Homepage
+
+![Homepage](images/preview-1.png)
+
+### Product section
+
+![Products](images/preview-2.png)
 
 ---
 
